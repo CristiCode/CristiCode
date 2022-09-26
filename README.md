@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![@cristicode's Holopin board](https://holopin.io/api/user/board?user=cristicode)](https://holopin.io/@cristicode)
+[![@cristicode's Holopin board](https://holopin.io/api/user/board?user=cristicode)]([https://holopin.io/@cristicode](https://www.holopin.io/userbadge/cl8j9jtgy1413409mh490v09j2))
 
 <!--
 **CristiCode/CristiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
