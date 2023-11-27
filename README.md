@@ -13,8 +13,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CristiCode&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
 [![CristiCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristicode&theme=tokyonight&hide_border=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristicode&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300)
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristicode&label=Profile%20views&color=0e75b6&style=flat" alt="cristicode" /> </p>
 
 <!--
 **CristiCode/CristiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
