@@ -2,7 +2,7 @@
 <div id="header" align="center"> 
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
   <h1>Hi👋, I'm Cristina</h1>
-  <h3>I'm junior web developer 💻</h3>
+  <h3>I'm a junior web developer 💻</h3>
 </div>
 
 ---
